@@ -2,7 +2,7 @@
   "name": "now-base-menu",
   "version": "0.0.2",
   "description": "NowUI 菜单组件",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "keywords": [
     "now",
     "展示组件"

@@ -2,7 +2,7 @@
   "name": "now-activity-city-select",
   "version": "0.0.2",
   "description": "活动城市选择组件",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "keywords": [
     "now",
     "展示组件"

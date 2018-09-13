@@ -2,7 +2,7 @@
   "name": "now-base-cover",
   "version": "0.0.2",
   "description": "NOW 基础组件 cover",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "keywords": [
     "now",
     "展示组件"

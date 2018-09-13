@@ -9,7 +9,7 @@
     "now，展示组件"
   ],
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "maintainers": [
     {
       "email": "ivwebt@gamil.com",
